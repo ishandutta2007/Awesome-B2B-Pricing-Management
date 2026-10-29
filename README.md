@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=githbb" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-B2B-Pricing-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-B2B-Pricing-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-B2B-Pricing-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-B2B-Pricing-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-B2B-Pricing-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-B2B-Pricing-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-B2B-Pricing-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,7 +66,7 @@ Market structure follows a **bimodal hybrid distribution**:
 
 ## 🌟 Open-Source GitHub Projects
 
-*Sorted by GitHub stargazers count (descending). All star badges link directly to the repository's live stargazers list.*
+*Sorted by GitHub stargazers count (descending). All Stars_Badges link directly to the repository's live stargazers list.*
 
 1. **[Odoo](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 🏷️
    * **License:** LGPL-3.0
@@ -153,7 +153,7 @@ When architecting a comprehensive enterprise B2B pricing stack, organizations ty
 Contributions are warmly welcomed! To suggest a SaaS product or open-source pricing engine:
 
 1. 🍴 **Fork the repository** on GitHub.
-2. 📝 **Edit `README.md`**: Add your entry into the appropriate table or list adhering to the established schema (include verified starting prices, precise free tier/trial limits, licenses, tech stacks, and star counts).
+2. 📝 **Edit `README.md`**: Add your entry into the appropriate table or list adhering to the established schema (include verified starting prices, precise free tier/trial limits, licenses, tech stacks, and Stars_Counts).
 3. 🔍 **Verify Data Quality**: Ensure statements are objective, backed by official documentation or public pricing pages.
 4. 🚀 **Submit a Pull Request** with a clear explanation of the addition or revision.
 
