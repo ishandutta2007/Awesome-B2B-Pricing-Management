@@ -32,73 +32,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global B2B pricing and revenue optimization software market is estimated at **$1.5B – $2.0B** (projected to reach **$5B+ by 2032** growing at a **12%–16% CAGR**). Market structure is **moderately concentrated** at the enterprise tier—dominated by dedicated pricing optimization leaders (PROS, Pricefx, Vendavo, Zilliant) and major cloud commerce ecosystems (Shopify, SAP, Salesforce)—while maintaining a **fragmented long tail** of niche dynamic repricers, catalog tools, and CPQ plugins catering to mid-market and SME commerce.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[PROS Pricing](https://www.pros.com/)**
-
-  **AI-driven pricing optimization and revenue management** for B2B enterprises. **Pricing**: Quote-only; enterprise contracts. **Free tier**: None. **Best for**: large enterprises wanting AI-powered price optimization, deal guidance, and margin analytics across complex product portfolios.
-
-
-
-- **[Pricefx](https://www.pricefx.com/)**
-
-  **Cloud-native pricing platform** with price optimization, CPQ, rebate management, and deal desk. **Pricing**: Quote-only; modular pricing. **Free tier**: None. **Best for**: mid-market to enterprise organizations wanting a comprehensive, modular pricing suite with strong analytics.
-
-
-
-- **[Vendavo](https://www.vendavo.com/)**
-
-  **B2B pricing and profitability management** platform with price execution, deal guidance, and margin analytics. **Pricing**: Quote-only. **Free tier**: None. **Best for**: manufacturers and distributors wanting to align pricing with profitability goals.
-
-
-
-- **[Zilliant](https://www.zilliant.com/)**
-
-  **AI-powered pricing and sales guidance** for B2B. **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises wanting data-driven price recommendations and sales intelligence at scale.
-
-
-
-- **[Competera](https://competera.net/)**
-
-  **AI-powered price optimization** with competitive intelligence and elasticity modeling. **Pricing**: Quote-only. **Free tier**: None. **Best for**: retailers and B2B sellers wanting competitor-aware price optimization.
-
-
-
-- **[Prisync](https://prisync.com/)**
-
-  **Competitor price tracking and dynamic pricing** for e-commerce. **Pricing**: Tiered plans; free trial available. **Free tier**: Trial available. **Best for**: online sellers wanting automated competitor price monitoring and repricing rules.
-
-
-
-- **[Omnia Retail](https://www.omniaretail.com/)**
-
-  **Dynamic pricing and retail intelligence** platform. **Pricing**: Quote-only. **Free tier**: None. **Best for**: retailers wanting AI-driven pricing strategies based on market and competitor data.
-
-
-
-- **[Flintfox](https://flintfox.com/)**
-
-  **Pricing and rebate management** for Microsoft Dynamics 365. **Pricing**: Quote-only. **Free tier**: None. **Best for**: Dynamics 365 customers wanting integrated price and rebate management.
-
-
-
-- **[Shopify Price Lists](https://help.shopify.com/en/manual/b2b/catalogs/price-lists)**
-
-  **B2B price lists** within Shopify's B2B commerce capabilities. **Pricing**: Included with Shopify Plus B2B features; quote-based. **Free tier**: None. **Best for**: Shopify Plus merchants wanting customer-specific pricing within the Shopify ecosystem.
-
-
+| Platform | Company Size (Revenue / Valuation) | Pricing | Free Tier / Trial Limit | Key Focus & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify Price Lists](https://help.shopify.com/en/manual/b2b/catalogs/price-lists)** | ~$215B Valuation (Market Cap) / ~$11.6B Annual Revenue | From $2,300/month (Shopify Plus 3-yr contract; $2,500/month on 1-yr term) | No free tier or standard trial (Enterprise contract required; standard Shopify plans offer 3-day trial) | B2B price lists, customer-specific catalogs, and volume tiered pricing integrated within Shopify Plus. |
+| **[PROS Pricing](https://www.pros.com/)** | ~$1.12B Valuation (Market Cap) / ~$352M Annual Revenue (NYSE: PRO) | Starts at ~$100,000/year (typically $100k–$300k+/year annual subscription based on revenue under management) | No free tier and no self-serve free trial (custom enterprise pilot upon sales qualification) | Enterprise AI price optimization, dynamic price guidance, and omnichannel deal desk analytics. |
+| **[Vendavo](https://www.vendavo.com/)** | ~$90M–$95M Annual Revenue / Private (Francisco Partners backed) | Starts at ~$75,000/year (core enterprise tiers range $75k–$200k+/year) | No free tier and no self-serve free trial (guided demo / proof of concept only) | B2B pricing management, margin leakage analytics, and deal guidance for manufacturers and distributors. |
+| **[Pricefx](https://www.pricefx.com/)** | ~$50M–$60M Annual Revenue / ~$140M Funding Raised (Private, Apax backed) | Starts at ~$50,000/year (scales from $50k to $300k+/year based on modules and RUM) | No free tier and no self-serve free trial (interactive sandbox and scheduled demos only) | Cloud-native modular pricing management, CPQ, rebate governance, and dynamic AI price elasticity. |
+| **[Zilliant](https://www.zilliant.com/)** | ~$35M–$40M Annual Revenue / Private (Madison Dearborn Partners backed) | Starts at ~$60,000/year (single-module deployments like Price IQ / Deal IQ from $60k–$90k+/year) | No free tier and no self-serve free trial (custom sandbox/demo available upon request) | AI-driven market pricing, dynamic sales guidance, and customer-specific contract price optimization. |
+| **[Flintfox](https://flintfox.com/)** | ~$25M–$35M Est. Revenue / Acquired by Enable in Jan 2025 (Enable valuation $1.1B+) | Custom enterprise pricing starting at ~$30,000–$50,000/year (varies by ERP transaction volume) | No free tier and no self-serve free trial (scheduled product walkthroughs only) | Real-time pricing execution and complex rebate management embedded with Microsoft Dynamics 365 and SAP. |
+| **[Competera](https://competera.net/)** | ~$10M–$15M Est. Revenue / $8M Funding Raised (Profitable since 2023) | Starts at $1,080/month fixed platform fee + $0.0007/data point (starter competitive data tier) | No free tier and no free trial (tailored sales demo and data audit only) | AI dynamic price optimization, competitive market intelligence, and demand elasticity modeling. |
+| **[Omnia Retail](https://www.omniaretail.com/)** | ~$5M–$10M Est. Revenue / PE backed by Connected Capital | Starts at €399/month (~$430/month) for SMB Single-shop plan | No free tier and no self-serve trial (offers free catalog-matched demo & consultation) | Dynamic pricing algorithms, price elasticity testing, and European market price monitoring. |
+| **[Prisync](https://prisync.com/)** | ~$2M–$5M Est. Revenue / $1.27M Funding Raised | Starts at $99/month (Professional plan; $199/month Premium, $399/month Platinum) | 14-day free trial (Up to 100 products monitored; no credit card required; no permanent free tier) | Competitor price tracking, automated price crawling, and margin-bound repricing rules. |
 
 ## Open-Source GitHub Projects
 
